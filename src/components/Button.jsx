@@ -9,7 +9,7 @@ const Button = ({ className, href, onClick, children, px, white }) => {
 
   // For rendering button on the web
   const renderButton = () => (
-    <button className={classes}>
+    <button className={classes} onClick={onClick}>
       <span className={spanClasses}>{children}</span>
       {ButtonSvg(white)}
     </button>
