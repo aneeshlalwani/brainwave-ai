@@ -1,5 +1,7 @@
 # 🧠 Brainwave
 
+![Output](https://github.com/aneeshlalwani/brainwave-ai/blob/main/output.png?raw=true)
+
 ## Introduction
 Brainwave - A cutting-edge React.js and Tailwind CSS website showcasing contemporary UI/UX principles with a sleek design, seamless animations, and exceptional user experience, setting a benchmark for modern web development.
 
