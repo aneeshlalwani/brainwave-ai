@@ -6,7 +6,7 @@
 Brainwave - A cutting-edge React.js and Tailwind CSS website showcasing contemporary UI/UX principles with a sleek design, seamless animations, and exceptional user experience, setting a benchmark for modern web development.
 
 ## Tech Stack
-- Vie
+- Vite
 - React.js
 - Tailwind CSS
 
